@@ -11,4 +11,4 @@
   * Third person switcher
   * Votemap
 
-Note :- I won't provide support for Tekno MW3 anymore
+Note :- I won't provide support for Tekno MW3 plugins anymore
