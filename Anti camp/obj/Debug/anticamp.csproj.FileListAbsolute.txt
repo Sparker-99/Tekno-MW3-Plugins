@@ -1,0 +1,16 @@
+C:\Users\souri\Documents\projects\anticamp\anticamp\bin\Debug\anticamp.dll
+C:\Users\souri\Documents\projects\anticamp\anticamp\bin\Debug\anticamp.pdb
+C:\Users\souri\Documents\projects\anticamp\anticamp\bin\Debug\InfinityScript.dll
+C:\Users\souri\Documents\projects\anticamp\anticamp\obj\Debug\anticamp.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\anticamp\anticamp\obj\Debug\anticamp.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\anticamp\anticamp\obj\Debug\anticamp.csproj.CopyComplete
+C:\Users\souri\Documents\projects\anticamp\anticamp\obj\Debug\anticamp.dll
+C:\Users\souri\Documents\projects\anticamp\anticamp\obj\Debug\anticamp.pdb
+D:\projects\anticamp\anticamp\bin\Debug\anticamp.dll
+D:\projects\anticamp\anticamp\bin\Debug\anticamp.pdb
+D:\projects\anticamp\anticamp\bin\Debug\InfinityScript.dll
+D:\projects\anticamp\anticamp\obj\Debug\anticamp.csprojAssemblyReference.cache
+D:\projects\anticamp\anticamp\obj\Debug\anticamp.csproj.CoreCompileInputs.cache
+D:\projects\anticamp\anticamp\obj\Debug\anticamp.csproj.CopyComplete
+D:\projects\anticamp\anticamp\obj\Debug\anticamp.dll
+D:\projects\anticamp\anticamp\obj\Debug\anticamp.pdb

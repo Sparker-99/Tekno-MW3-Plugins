@@ -1,0 +1,8 @@
+C:\Users\souri\Documents\projects\votemap\votemap\obj\Debug\votemap.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\votemap\votemap\obj\Debug\votemap.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\votemap\votemap\bin\Debug\votemap.dll
+C:\Users\souri\Documents\projects\votemap\votemap\bin\Debug\votemap.pdb
+C:\Users\souri\Documents\projects\votemap\votemap\bin\Debug\InfinityScript.dll
+C:\Users\souri\Documents\projects\votemap\votemap\obj\Debug\votemap.csproj.CopyComplete
+C:\Users\souri\Documents\projects\votemap\votemap\obj\Debug\votemap.dll
+C:\Users\souri\Documents\projects\votemap\votemap\obj\Debug\votemap.pdb

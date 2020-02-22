@@ -1,0 +1,8 @@
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\obj\Debug\isnipe_astro.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\obj\Debug\isnipe_astro.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\obj\Debug\isnipe_astro.csproj.CopyComplete
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\bin\Debug\ISNIPE.dll
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\bin\Debug\ISNIPE.pdb
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\obj\Debug\ISNIPE.dll
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\obj\Debug\ISNIPE.pdb
+C:\Users\souri\Documents\projects\isnipe_astro\isnipe_astro\bin\Debug\InfinityScript.dll

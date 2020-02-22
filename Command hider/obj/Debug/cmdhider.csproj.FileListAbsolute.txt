@@ -1,0 +1,8 @@
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\bin\Debug\cmdhider.dll
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\bin\Debug\cmdhider.pdb
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\bin\Debug\InfinityScript.dll
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\obj\Debug\cmdhider.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\obj\Debug\cmdhider.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\obj\Debug\cmdhider.csproj.CopyComplete
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\obj\Debug\cmdhider.dll
+C:\Users\souri\Documents\projects\cmdhider\cmdhider\obj\Debug\cmdhider.pdb

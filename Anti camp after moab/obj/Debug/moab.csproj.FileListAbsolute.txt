@@ -1,0 +1,16 @@
+C:\Users\souri\Documents\projects\moab\moab\bin\Debug\moab.dll
+C:\Users\souri\Documents\projects\moab\moab\bin\Debug\moab.pdb
+C:\Users\souri\Documents\projects\moab\moab\bin\Debug\InfinityScript.dll
+C:\Users\souri\Documents\projects\moab\moab\obj\Debug\moab.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\moab\moab\obj\Debug\moab.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\moab\moab\obj\Debug\moab.csproj.CopyComplete
+C:\Users\souri\Documents\projects\moab\moab\obj\Debug\moab.dll
+C:\Users\souri\Documents\projects\moab\moab\obj\Debug\moab.pdb
+D:\projects\moab\moab\obj\Debug\moab.csprojAssemblyReference.cache
+D:\projects\moab\moab\obj\Debug\moab.csproj.CoreCompileInputs.cache
+D:\projects\moab\moab\obj\Debug\moab.dll
+D:\projects\moab\moab\obj\Debug\moab.pdb
+D:\projects\moab\moab\bin\Debug\moab.dll
+D:\projects\moab\moab\bin\Debug\moab.pdb
+D:\projects\moab\moab\bin\Debug\InfinityScript.dll
+D:\projects\moab\moab\obj\Debug\moab.csproj.CopyComplete

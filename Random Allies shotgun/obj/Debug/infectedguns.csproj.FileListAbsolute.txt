@@ -1,0 +1,8 @@
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\bin\Debug\infectedguns.dll
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\bin\Debug\infectedguns.pdb
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\bin\Debug\InfinityScript.dll
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\obj\Debug\infectedguns.csprojAssemblyReference.cache
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\obj\Debug\infectedguns.csproj.CoreCompileInputs.cache
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\obj\Debug\infectedguns.csproj.CopyComplete
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\obj\Debug\infectedguns.dll
+C:\Users\souri\Documents\projects\infectedguns\infectedguns\obj\Debug\infectedguns.pdb
